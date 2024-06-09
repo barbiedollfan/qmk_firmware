@@ -1,5 +1,5 @@
-// Copyright 2023 QMK
-// SPDX-License-Identifier: GPL-2.0-or-later
+#define TAPPING_TOGGLE 2 
+#define TAPPING_TERM 250
 
 #pragma once
 

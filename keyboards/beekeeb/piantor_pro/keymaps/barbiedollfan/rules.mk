@@ -3,6 +3,8 @@ BOOTLOADER = rp2040
 
 REPEAT_KEY_ENABLE = yes
 COMBO_ENABLE = yes
+STENO_ENABLE = yes
+STENO_PROTOCOL = geminipr
 
 # sequence_transform setup
 mkfile_dir := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))

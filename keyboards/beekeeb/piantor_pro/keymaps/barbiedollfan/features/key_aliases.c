@@ -1,3 +1,10 @@
+enum custom_keycodes {
+    US_MAG1 = SAFE_RANGE,
+    US_MAG2,
+    US_MAG3,
+    US_MAG4,
+};
+
 #define OS_LSFT OSM(MOD_LSFT)
 #define OS_SYM  OSL(2)
 #define MT_CTLI CTL_T(KC_I)
@@ -10,11 +17,6 @@
 #define SF_RBRC LSFT(KC_0)
 #define SF_QUES LSFT(KC_SLSH)
 #define SF_UNDR LSFT(KC_MINS)
-#define LT_SPC  LT(2, KC_SPC)
-
-enum custom_keycodes {
-    US_MAG1 = SAFE_RANGE,
-    US_MAG2,
-    US_MAG3,
-    US_MAG4,
-};
+#define LT_SPC  LT(3, KC_SPC)
+#define QK_REP  US_MAG2
+#define QK_AREP US_MAG1

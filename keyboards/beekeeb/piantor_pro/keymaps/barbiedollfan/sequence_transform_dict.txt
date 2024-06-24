@@ -1,58 +1,36 @@
 // 👆👍★✪
 // ↻⇑
 
-//👍       ⇒ ↻
+
 ∀👍       ⇒ ∀⑴
 
-∂👆       ⇒ ∂.
-∂n       ⇒ ∂n
-∂👍       ⇒ ∂⑴
-
-∂∂👍       ⇒ ∂∂⑴
 
 
-∇⎵⎵      ⇒∇,⎵
-‸i‸            ⇒ ‸I‸
 ‸thats       ⇒ ‸that's
+‸thatd       ⇒ ‸that'd
+‸thatll       ⇒ ‸that'll
 ‸dont       ⇒ ‸don't
 ‸wont       ⇒ ‸won't
 ‸cant       ⇒ ‸can't
 ‸youre       ⇒ ‸you're
 ‸youve       ⇒ ‸you've
+‸youll       ⇒ ‸you'll
+‸youd       ⇒ ‸you'd
+‸whats       ⇒ ‸what's
+‸whos       ⇒ ‸who's
+‸wholl       ⇒ ‸who'll
+‸whod       ⇒ ‸who'd
 
 
-gh👍   ⇒ ghly
-
-‸s👍q       ⇒ ‸sequence
-‸s👍qo      ⇒ ‸sequence_transform
-‸s👍q-      ⇒ ‸sequence-transform
-‸s👍q⎵o‸    ⇒ ‸sequence⎵transform◯
-‸t👍o       ⇒ ‸transform
-‸s👍l       ⇒ ‸symbol
 
 
 ‸k👍        ⇒ ‸know
-‸k👍r       ⇒ ‸keypress
-‸k👍b       ⇒ ‸key_buffer
 
 
-‸qa      ⇒ ‸qua
-qa      ⇒ qua
-qi      ⇒ qui
-qe      ⇒ que
-qo      ⇒ quo
-qa👆    ⇒ qa
-‸qa👆    ⇒ ‸qa
-qi👆    ⇒ qi
-qe👆    ⇒ qe
-qo👆    ⇒ qo
-qm👆    ⇒ qmk
 
-‸qua👆         ⇒ ‸quali
 ‸qa👆t         ⇒ ‸quality
 
 
-judge👆     ⇒ judgment
 
 sim👆       ⇒ simultaneously
 sim👆👆       ⇒ simultaneous
@@ -135,7 +113,7 @@ sim👆👆       ⇒ simultaneous
 ‸m👍n       ⇒ ‸mean
 ‸m👍r       ⇒ ‸mother
 
-‸n‸     ⇒ ‸the‸
+‸n‸     ⇒ ‸the◯
 ‸nt‸     ⇒ ‸that◯
 ‸ne‸     ⇒ ‸then◯
 ‸na‸     ⇒ ‸than◯
@@ -147,20 +125,13 @@ sim👆👆       ⇒ simultaneous
 ‸nout‸     ⇒ ‸thought◯
 ‸n👍     ⇒ ‸through
 
-‸t👍        ⇒ ‸thought
+
 ‸t👍e‸       ⇒ ‸time‸
-‸t👍g       ⇒ ‸though
-‸t👍t       ⇒ ‸thought
-‸t👍r       ⇒ ‸through
-‸t👍n       ⇒ ‸thing
-‸t👍ng      ⇒ ‸thinking
 ‸t👍ny      ⇒ ‸technology
 ‸t👍nl      ⇒ ‸technical
 ‸t👍nly     ⇒ ‸technically
 ‸t👍nu      ⇒ ‸technique
 ‸t👍w       ⇒ ‸throw
-‸t👍a       ⇒ ‸take
-‸t👍ag      ⇒ ‸taking
 
 ‸t👆        ⇒ ‸tell
 
